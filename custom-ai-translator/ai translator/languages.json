@@ -1,0 +1,24 @@
+{
+    "languages": {
+        "English": "en",
+        "Mandarin": "zh-cn",
+        "Arabic": "ar",
+        "French": "fr",
+        "German": "de",
+        "Russian": "ru",
+        "Japanese": "ja",
+        "Korean": "ko",
+        "Italian": "it",
+        "Portuguese": "pt",
+        "Hindi": "hi",
+        "Bengali": "bn",
+        "Turkish": "tr",
+        "Vietnamese": "vi",
+        "Thai": "th",
+        "Persian": "fa",
+        "Swahili": "sw",
+        "Dutch": "nl",
+        "Spanish": "es",
+        "Polish": "pl"
+    }
+}
